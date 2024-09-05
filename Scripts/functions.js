@@ -3,6 +3,7 @@ const fs = require('fs');
 const tokenListRaw = fs.readFileSync('formattedTokens.json', 'utf8');
 const tokenList = JSON.parse(tokenListRaw);
 const { ethers } = require('ethers');
+require('dotenv').config();
 
 let baseTokens = {
 "USDC": {"symbol": "USDC", "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48", "chain": "eth", "decimals": 6 },
@@ -69,7 +70,7 @@ async function getPriceForPair(pair) {
   const url = "https://api.1inch.dev/swap/v6.0/1/quote";
   const config = {
     headers: {
-      "Authorization": "Bearer 8CkrzAZVQqgqceKJd7X9UDDzvZUeSHOl"
+      Authorization: `Bearer ${process.env.ONEINCH_API_KEY}`
     },
     params: {
       "src": pair[0].address,
@@ -114,7 +115,7 @@ async function getTxData(pair, amount, contract, retries = 3, delay = 2000) {
   const url = "https://api.1inch.dev/swap/v6.0/1/swap";
   const config = {
     headers: {
-      Authorization: "Bearer 8CkrzAZVQqgqceKJd7X9UDDzvZUeSHOl",
+      Authorization: `Bearer ${process.env.ONEINCH_API_KEY}`
     },
     params: {
       src: pair[0],
