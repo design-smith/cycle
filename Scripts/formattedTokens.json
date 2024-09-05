@@ -1,0 +1,224 @@
+{
+  "cUSDCv3": {
+    "symbol": "cUSDCv3",
+    "address": "0xc3d688b66703497daa19211eedff47f25384cdc3",
+    "chain": "eth",
+    "decimals": 6
+  },
+  "LTO": {
+    "symbol": "LTO",
+    "address": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
+    "chain": "eth",
+    "decimals": 8
+  },
+  "BNB": {
+    "symbol": "BNB",
+    "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "RSR": {
+    "symbol": "RSR",
+    "address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "HIGH": {
+    "symbol": "HIGH",
+    "address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "wALV": {
+    "symbol": "wALV",
+    "address": "0x256d1fce1b1221e8398f65f9b36033ce50b2d497",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "NEAR": {
+    "symbol": "NEAR",
+    "address": "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4",
+    "chain": "eth",
+    "decimals": 24
+  },
+  "HRD": {
+    "symbol": "HRD",
+    "address": "0x461b71cff4d4334bba09489ace4b5dc1a1813445",
+    "chain": "eth",
+    "decimals": 9
+  },
+  "UwU": {
+    "symbol": "UwU",
+    "address": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "KTN": {
+    "symbol": "KTN",
+    "address": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "DOGWIFHAT": {
+    "symbol": "DOGWIFHAT",
+    "address": "0x8aec4bbdcfb451aa289bfbd3c2f4e34a44ada1be",
+    "chain": "eth",
+    "decimals": 9
+  },
+  "PIXEL": {
+    "symbol": "PIXEL",
+    "address": "0x3429d03c6f7521aec737a0bbf2e5ddcef2c3ae31",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "aEthPYUSD": {
+    "symbol": "aEthPYUSD",
+    "address": "0x0c0d01abf3e6adfca0989ebba9d6e85dd58eab1e",
+    "chain": "eth",
+    "decimals": 6
+  },
+  "OX": {
+    "symbol": "OX",
+    "address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "aEthGHO": {
+    "symbol": "aEthGHO",
+    "address": "0x00907f9921424583e7ffbfedf84f92b7b2be4977",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "MAZZE": {
+    "symbol": "MAZZE",
+    "address": "0x4a029f7bcf33acb03547d8fa7be840347973e24e",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "stataEthUSDC": {
+    "symbol": "stataEthUSDC",
+    "address": "0x73eddfa87c71addc275c2b9890f5c3a8480bc9e6",
+    "chain": "eth",
+    "decimals": 6
+  },
+  "stataEthPYUSD": {
+    "symbol": "stataEthPYUSD",
+    "address": "0x00f2a835758b33f3ac53516ebd69f3dc77b0d152",
+    "chain": "eth",
+    "decimals": 6
+  },
+  "stataEthUSDT": {
+    "symbol": "stataEthUSDT",
+    "address": "0x862c57d48becb45583aeba3f489696d22466ca1b",
+    "chain": "eth",
+    "decimals": 6
+  },
+  "stataEthWETH": {
+    "symbol": "stataEthWETH",
+    "address": "0x252231882fb38481497f3c767469106297c8d93b",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "stataEthLUSD": {
+    "symbol": "stataEthLUSD",
+    "address": "0xdbf5e36569798d1e39ee9d7b1c61a7409a74f23a",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "stataEthDAI": {
+    "symbol": "stataEthDAI",
+    "address": "0xaf270c38ff895ea3f95ed488ceace2386f038249",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "stataEthwstETH": {
+    "symbol": "stataEthwstETH",
+    "address": "0x322aa5f5be95644d6c36544b6c5061f072d16df5",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "stataEthcrvUSD": {
+    "symbol": "stataEthcrvUSD",
+    "address": "0x848107491e029afde0ac543779c7790382f15929",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "stataEthFRAX": {
+    "symbol": "stataEthFRAX",
+    "address": "0xee66abd4d0f9908a48e08ae354b0f425de3e237e",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "ETHFI": {
+    "symbol": "ETHFI",
+    "address": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "NEURA": {
+    "symbol": "NEURA",
+    "address": "0x3d1c949a761c11e4cc50c3ae6bdb0f24fd7a39da",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "ZENT": {
+    "symbol": "ZENT",
+    "address": "0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "ENA": {
+    "symbol": "ENA",
+    "address": "0x57e114b691db790c35207b2e685d4a43181e6061",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "OMNI": {
+    "symbol": "OMNI",
+    "address": "0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "REZ": {
+    "symbol": "REZ",
+    "address": "0x3b50805453023a91a8bf641e279401a0b23fa6f9",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "ZRO": {
+    "symbol": "ZRO",
+    "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "THREE": {
+    "symbol": "THREE",
+    "address": "0xa059b81568fee88791de88232e838465826cf419",
+    "chain": "eth",
+    "decimals": 9
+  },
+  "GURU": {
+    "symbol": "GURU",
+    "address": "0x525574c899a7c877a11865339e57376092168258",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "AZUR": {
+    "symbol": "AZUR",
+    "address": "0x9e6be44cc1236eef7e1f197418592d363bedcd5a",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "DINERO": {
+    "symbol": "DINERO",
+    "address": "0x6df0e641fc9847c0c6fde39be6253045440c14d3",
+    "chain": "eth",
+    "decimals": 18
+  },
+  "NEIRO": {
+    "symbol": "NEIRO",
+    "address": "0xee2a03aa6dacf51c18679c516ad5283d8e7c2637",
+    "chain": "eth",
+    "decimals": 9
+  }
+}
